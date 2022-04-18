@@ -1,16 +1,17 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=monish-jain.monish-jain">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Monish+Jain....;Nice+to+e-meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 ### Hi there 👋
 
-<!--
-**monish-jain/monish-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Hello World! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+- :zap: I love math, programming and data science.
+- 🌱 I’m addicted to learning and growing every day.
+- see you soon ....
